@@ -1,0 +1,69 @@
+{
+  "project_info": {
+    "project_number": "393730155332",
+    "firebase_url": "https://ejercicio7firebase-1adbe.firebaseio.com",
+    "project_id": "ejercicio7firebase-1adbe",
+    "storage_bucket": "ejercicio7firebase-1adbe.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393730155332:android:44aaa460b4c044f8c62d11",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.ladm_u3_ejercicio7_firebasefirestore"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393730155332-mj7flicask1qdo5gar9pqfmkaa6cgcmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJZMIXFzrGtSegQhKtLNm0w0vhU76AVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393730155332-mj7flicask1qdo5gar9pqfmkaa6cgcmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:393730155332:android:03e2a5866fc355b5c62d11",
+        "android_client_info": {
+          "package_name": "mx.edu.ittepic.lamd_u3_practica2_braylosky_ramirez_fletes_20_xx"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "393730155332-mj7flicask1qdo5gar9pqfmkaa6cgcmr.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDtJZMIXFzrGtSegQhKtLNm0w0vhU76AVs"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "393730155332-mj7flicask1qdo5gar9pqfmkaa6cgcmr.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
